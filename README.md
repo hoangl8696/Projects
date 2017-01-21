@@ -22,6 +22,8 @@ HTML/CSS/Javascript for front-end web design; Adobe Illustrator for logos, mock-
   
   -Memebers: 3.
   
+  -Original repo: https://github.com/jamiamikko/Media-Sharing-Web-App.git
+  
 #PandaTalk
   -Introduction: design a native mobile application from front-end to back-end that allow user to register accounts and chat with
 other already registered users, similar to Whatsapp, Facebook's messager or other messaging application on the market.
