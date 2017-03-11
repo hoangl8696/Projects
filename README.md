@@ -1,13 +1,17 @@
 #Storytime (in progress)
-  -Introduction: design a web application to share media, similar to Codebox, however with more advance features.
+  -Introduction: design a hybrid web/mobile application to share media, similar to Codebox, however with more advance features.
   
-  -Tools and technology: Angular, Ionic, ...
+  -Tools and technology: Angular 2, Ionic 2, Cordova for native functionalities.
   
-  -Role: not decided yet.
+  -Role: coder.
   
   -Time: 16-1-2017 to present.
   
   -Members: 3.
+  
+  -Original repo: https://github.com/hoangl8696/Storytellers/tree/feature_hoang_4 
+  
+  *Note on 11st of March 2017, feature_hoang_4 branch have the most features and functionalities
 
 #Codebox
   -Introduction: design a website from front-end to back-end, website allow users to upload, share and comment on pictures
