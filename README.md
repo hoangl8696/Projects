@@ -3,7 +3,7 @@
   
   -Tools and technology: Angular 2, Ionic 2, Cordova for native functionalities.
   
-  -Role: coder.
+  -Role: front-end coder.
   
   -Time: 16-1-2017 to present.
   
