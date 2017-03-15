@@ -5,7 +5,7 @@
   
   -Role: front-end coder.
   
-  -Time: 16-1-2017 to present.
+  -Time: 16-1-2017 to 14-3-2017.
   
   -Members: 3.
   
