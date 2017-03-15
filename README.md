@@ -1,4 +1,4 @@
-#Storytime / Storytellers (in progress)
+#Storytime / Storytellers
   -Introduction: design a hybrid web/mobile application to share media, similar to Codebox, however with more advance features.
   
   -Tools and technology: Angular 2, Ionic 2, Cordova for native functionalities.
