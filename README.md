@@ -1,3 +1,13 @@
+#Khala (on-going)
+  -Introduction: design an IOS mobile application that implement ibeacon technology
+  
+  -Tools and technology: Xcode with Swift language, beacon ibks 105, test on real iphone
+  
+  -Role: coder
+  
+  -Time: 20-3-2017 to present.
+  
+  -Members: 3.
 #Storytime / Storytellers
   -Introduction: design a hybrid web/mobile application to share media, similar to Codebox, however with more advance features.
   
@@ -11,7 +21,7 @@
   
   -Original repo: https://github.com/hoangl8696/Storytellers/tree/feature_hoang_4 
   
-  *Note on 11st of March 2017, feature_hoang_4 branch have the most features and functionalities
+  -Guide: download as zip or clone branch feature_hoang_4, go to terminal, locate the folder location, type in "ionic serve"
 
 #Codebox
   -Introduction: design a website from front-end to back-end, website allow users to upload, share and comment on pictures
