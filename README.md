@@ -1,4 +1,4 @@
-#Khala (on-going)
+#Khala
   -Introduction: design an IOS mobile application that implement ibeacon technology
   
   -Tools and technology: Xcode with Swift language, beacon ibks 105, test on real iphone
