@@ -1,3 +1,16 @@
+#NordSoftware test:
+  -Introduction: NordSoftware's preliminary test, follow link for the project requirements and developer logs
+  
+  -Tools and technology: javascript on React, Adobe Illustrator
+  
+  -Role: coder
+  
+  -Time:3-4-2017 to 6-4-2017
+  
+  -Members: 1
+  
+  -Original repo: https://github.com/hoangl8696/NordSoftwareTest
+
 #Khala
   -Introduction: design an IOS mobile application that implement ibeacon technology
   
@@ -5,7 +18,7 @@
   
   -Role: coder
   
-  -Time: 20-3-2017 to present.
+  -Time: 20-3-2017 to 1-5-2017.
   
   -Members: 3.
   
