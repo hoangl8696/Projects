@@ -1,3 +1,17 @@
+#School projects bundle:
+
+-Introduction: a collection of school's projects using Android Studio
+
+-Tools and technology: Android Studio and its libraries
+
+-Role: coder
+
+-Time: 26-8-2017 to now
+
+-Members: 1
+
+-Original repo: https://github.com/hoangl8696/School-project-bundle
+
 #NordSoftware test:
   -Introduction: NordSoftware's preliminary test, follow link for the project requirements and developer logs
   
@@ -5,7 +19,7 @@
   
   -Role: coder
   
-  -Time:3-4-2017 to 6-4-2017
+  -Time: 3-4-2017 to 6-4-2017
   
   -Members: 1
   
