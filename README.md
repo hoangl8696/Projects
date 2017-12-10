@@ -13,6 +13,8 @@ that utilize AR technology to enhance shopping experience
 
 -Original repo: this project is not open source, however, please follow the link for the app's demo
 
+-Links: will be upload shortly
+
 # School projects bundle:
 
 -Introduction: a collection of school's projects using Android Studio
