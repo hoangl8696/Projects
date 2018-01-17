@@ -15,6 +15,23 @@ that utilize AR technology to enhance shopping experience
 
 -Links: https://youtu.be/K1h1E_UPx_4
 
+# OpenGL game: Don't Panic!
+
+-Introduction: native Android game, using Android Studio, with sensors from MySignals. Using body's vital signals (heart rate and breath) to control the cube jump pass obstacles. The faster your heart rate relative to your resting heart rate, the more obstacles get created, breath in deeply to jump.
+
+-Tools: Android Studio, MySignals pack
+
+-Role: coder, designer
+
+-Time: 17-7-2017 to 9-10-2017
+
+-Members: 2
+
+-Original repo: https://github.com/hoangl8696/OpenGL-Game
+
+-Links: https://youtu.be/qDP_GV2sd1c
+
+
 # School projects bundle:
 
 -Introduction: a collection of school's projects using Android Studio
