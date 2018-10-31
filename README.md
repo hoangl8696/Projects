@@ -1,3 +1,51 @@
+# Hobotti:
+
+-Introduction: realcase school project for Helsinki City client, find a solution to help Helsinki youth find hobby
+
+-Tools: Android Studio, Helsinki OpenAPI, NodeJs, ExpressJs, MongoDB
+
+-Role: code, application architect
+
+-Time: 1-9-2018 to present
+
+-Members: 3 on development team, 5 in total
+
+-Original repo: https://github.com/buckfast/hel-project
+
+-Solution: Android native application act as social media to chat/find/get news about hobbies
+
+# Android Logistic Solution:
+
+-Introduction: company project, can't say much
+
+-Tools: Android Studio, NodeJs, ExpressJs, client's third party API
+
+-Role: coder
+
+-Time: 1-4-2018 to 31-7-2018
+
+-Members: ~10 on development team, 20+ in total
+
+-Original repo: this project is not open source
+
+-Company: CGI
+
+# API server:
+
+-Introduction: hobby project, the challenge was to create a fully functional server from scratch within 1 month
+
+-Tools: NodeJs, ExpressJs, Contentful, MongoDB, Redis, Heroku
+
+-Role: coder, designer
+
+-Time: 1-3-2018 to 1-4-2018
+
+-Members: 1
+
+-Original repo: https://github.com/hoangl8696/apiserver
+
+-App link on Heroku: https://api-image-server.herokuapp.com/api-docs/
+
 # DecAR:
 
 -Introduction: realcase school project, the requirements was given by our client, CGI company. We were require to create a shopping app
