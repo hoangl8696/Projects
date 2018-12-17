@@ -1,16 +1,30 @@
+# Flutter_projects:
+
+-Introduction: numerous small to medium size Flutter hobby projects, aim to help learn more about the tool
+
+-Tools: Flutter, Dart
+
+-Role: coder
+
+-Time: 15-11-2018 to present
+
+-Members: 1
+
+-Original repo: https://github.com/hoangl8696/flutter
+
 # Hobotti:
 
 -Introduction: realcase school project for Helsinki City client, find a solution to help Helsinki youth find hobby
 
 -Tools: Android Studio, Helsinki OpenAPI, NodeJs, ExpressJs, MongoDB
 
--Role: code, application architect
+-Role: application architect, coder
 
--Time: 1-9-2018 to present
+-Time: 1-9-2018 to 13-12-2018
 
 -Members: 3 on development team, 5 in total
 
--Original repo: https://github.com/buckfast/hel-project
+-Original repo: https://github.com/buckfast/hel-project, pdf file showcase the architecture can be found in the repo
 
 -Solution: Android native application act as social media to chat/find/get news about hobbies
 
